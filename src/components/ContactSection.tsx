@@ -70,7 +70,7 @@ const ContactSection = () => {
           viewport={{ once: true }}
           className="mb-16"
         >
-          <span className="tactical-label text-gold mb-4 block">Section 04</span>
+          <span className="tactical-label text-gold mb-4 block">Section 05</span>
           <h2 className="section-header">SECURE COMMUNICATION</h2>
           <div className="tactical-divider mt-6" />
         </motion.div>
